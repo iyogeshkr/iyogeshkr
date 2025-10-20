@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Yogesh (aka idaniec)</h1>
+<h1 align="center">👋 Hey there, I'm Yogesh (aka Daniec)</h1>
 
 <p align="center">
   🚀 Final-year CSE (AI) Undergrad | 💻 Full Stack Web Developer (MERN) | 🧩 Python Learner | 🌟 Startup Founder
@@ -31,17 +31,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=idaniec&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=idaniec&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iyogeshkr&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iyogeshkr&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://x.com/idaniecX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/idaniec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/idaniec"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/iyogeshkrX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/iyogeshkr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/iyogeshkr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
